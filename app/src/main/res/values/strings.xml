@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">InsTea</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string-array name="item_university">
+        <item>Jamia Millia Islamia</item>
+        <item>Aligarh Muslim University 2</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="item_department">
+        <item>Computer Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Electronics and Communication Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Economics</item>
+        <item>English</item>
+        <item>Psychology</item>
+        <item>Political Science</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="item_semester">
+        <item>I</item>
+        <item>II</item>
+        <item>III</item>
+        <item>IV</item>
+        <item>V</item>
+        <item>VI</item>
+        <item>VII</item>
+        <item>VIII</item>
+    </string-array>
+
+    <string name="forget_password"><u>Forget Password</u></string>
+    <string name="openDrawer">Open navigation drawer</string>
+    <string name="closeDrawer">Close navigation drawer</string>
+    <string name="edit"><u>Edit</u></string>
+    <string name="subtitle_assignment">Every year, we welcome thousands of university students from every corner of the world to join Microsoft. You bring yo</string>
+    <string name="signup">Create an Account</string>
+    <string name="accountname"><u>sadiquereyaz</u></string>
+</resources>

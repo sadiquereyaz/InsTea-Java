@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.InsTTrial1" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+
+        <!--        Primary brand color-->
+        <item name="colorPrimary">#a7c8ff</item>
+        <item name="colorOnPrimary">#003061</item>
+        <item name="colorPrimaryContainer">#004788</item>
+        <item name="colorOnPrimaryContainer">#d5e3ff</item>
+
+        <item name="colorAccent">#FEB3A2</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">#bdc7dc</item>
+        <item name="colorOnSecondary">#273141</item>
+        <item name="colorSecondaryContainer">#3d4758</item>
+        <item name="colorOnSecondaryContainer">#d9e3f8</item>
+
+        <!-- Tertiary color band -->
+        <item name="colorTertiary">#dbbce1</item>
+        <item name="colorOnTertiary">#3e2845</item>
+        <item name="colorTertiaryContainer">#563e5d</item>
+        <item name="colorOnTertiaryContainer">#f8d8fe</item>
+
+        <!-- Error color band -->
+        <item name="colorError">#ffb4ab</item>
+        <item name="colorOnError">#690005</item>
+        <item name="colorErrorContainer">#93000a</item>
+        <item name="colorOnErrorContainer">#ffdad6</item>
+
+        <!-- Background color -->
+        <item name="background">@color/backgroundColor</item>
+        <item name="colorOnBackground">@color/colorOnBackground</item>
+
+        <!-- Surface color -->
+        <item name="colorOutline">#8e9199</item>
+        <item name="colorSurface">#201a19</item>
+        <item name="colorOnSurface">#ede0dd</item>
+        <item name="colorSurfaceVariant">#534340</item>
+        <item name="colorOnSurfaceVariant">#d8c2bd</item>
+
+        <item name="android:statusBarColor" tools:targetApi="l">@color/backgroundColor</item>
+        <item name="android:navigationBarColor">@color/backgroundColor</item>
+    </style>
+</resources>

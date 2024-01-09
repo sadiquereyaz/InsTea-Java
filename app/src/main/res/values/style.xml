@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ToolbarIconAppearance" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">25sp</item>
+<!--        <item name="android:Tint">@color/white</item>-->
+    </style>
+
+    <style name="MyTextInputLayoutStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"/>
+
+    <style name="ToolbarTextStyle" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="fontFamily">@font/oswald_medium</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+    <style name="CustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">14sp</item> <!-- Adjust the text size as needed -->
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="indicatorIcon">
+        <item name="android:layout_gravity">top</item>
+        <item name="elevation">20dp</item>
+        <item name="android:paddingBottom">0dp</item>
+    </style>
+</resources>

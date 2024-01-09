@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#000000</color>
+    <color name="black">#FFFFFF</color>
+    <color name="dividerColor">#323232</color>
+
+    <color name="brown">#a04029</color>
+    <color name="brown2">#EBA04029</color>
+
+    <color name="barRed">#F17077</color>
+    <color name="barGreen">#9CD273</color>
+    <color name="barBlue">#6CABDE</color>
+
+    <color name="backgroundColor">#1a1c1e</color>
+    <color name="colorOnBackground">#e3e2e6</color>
+</resources>

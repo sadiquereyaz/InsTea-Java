@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context="in.instea.instea.SideNavMenu.FragmentPlacement">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:textStyle="bold"
+            android:text="Branchwise Avg. Package vs Years (LPA)"
+            />
+
+        <com.github.mikephil.charting.charts.LineChart
+            android:id="@+id/average_line_chart"
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:textStyle="bold"
+            android:text="Branchwise Student Stats 2023"
+            android:layout_gravity="center_horizontal"/>
+
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/stack_chart"
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="10dp" />
+
+    </LinearLayout>
+
+</ScrollView>
