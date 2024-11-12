@@ -1,4 +1,5 @@
 # InsTea-Java
+[View on Google Play Store](https://play.google.com/store/apps/developer?id=Sadique+Reyaz)
 ## Screenshots
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/3kWiSkId1DA?si=O-VjW9trLExA62MK)
 ---
